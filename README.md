@@ -1,5 +1,5 @@
-## Họ và tên: Nguyễn Tiến Thanh
-## MSV: 228103103882
+## Họ và tên: Nguyễn Đình Cường
+## MSV: 228103103872
 ## Kết quả:
 ## Trang SplashScreen
 ![](./assets/pages/SplashScreen.jpg)
